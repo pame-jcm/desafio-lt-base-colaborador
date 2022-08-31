@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-base-colaborador/static/css/main.eedd4b6b.css",
+    "main.js": "/desafio-lt-base-colaborador/static/js/main.df8cfdd4.js",
+    "index.html": "/desafio-lt-base-colaborador/index.html",
+    "main.eedd4b6b.css.map": "/desafio-lt-base-colaborador/static/css/main.eedd4b6b.css.map",
+    "main.df8cfdd4.js.map": "/desafio-lt-base-colaborador/static/js/main.df8cfdd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eedd4b6b.css",
+    "static/js/main.df8cfdd4.js"
+  ]
+}
